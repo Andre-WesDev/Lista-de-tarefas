@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    margin-top: 70px;
+}
+
+.resul{
+    margin-top: 70px;
+}
+
+ul{
+   list-style: none;
+   font-size: 25px;
+}
+
+li:hover{
+    font-weight: bold;
+    font-size: 27px;
+}
+
+@media(max-width:767px){
+    .btn{
+        margin-top: 15px;
+    }
+}
